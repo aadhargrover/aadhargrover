@@ -6,6 +6,8 @@ Full-stack developer building web applications, business dashboards, e-commerce 
 
 **30+ websites · 15+ clients · India, Australia, Canada and Dubai**
 
+📄 **Résumé:** [View](https://aadhargrover.com/resume/Aadhar_Grover_Resume.pdf) · [Download PDF](https://github.com/aadhargrover/aadhargrover/raw/main/Aadhar_Grover_Resume.pdf)
+
 #### What I build
 
 - **Websites & 3D web experiences**: business sites, stores and interactive pages
@@ -51,4 +53,4 @@ B.Tech, Computer Science and Engineering, Graphic Era University (2020 – 2024)
 
 #### Reach me
 
-[aadhargrover.com](https://aadhargrover.com) · [LinkedIn](https://www.linkedin.com/in/aadhargrover/) · [Instagram](https://www.instagram.com/a.a.d.h.a.r/) · maanakdigitalsolutions@gmail.com
+[aadhargrover.com](https://aadhargrover.com) · [LinkedIn](https://www.linkedin.com/in/aadhargrover/) · [Instagram](https://www.instagram.com/a.a.d.h.a.r/) · [Résumé](https://aadhargrover.com/resume/Aadhar_Grover_Resume.pdf) · maanakdigitalsolutions@gmail.com
